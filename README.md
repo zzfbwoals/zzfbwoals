@@ -1,18 +1,41 @@
-## Hi there 👋
+# Hi There! I'm Jaemin Ryu 👋
+
+📧 [Email](mailto:jyoonlee@sch.ac.kr)
+
+---
+
+## 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white&style=flat)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzfbwoals)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**zzfbwoals/zzfbwoals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🙋‍♂️ Who Am I
+- 🎓 I am currently studying at Soonchunhyang University.
+- 🏠 I live in Asan, Korea.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 Experience
+- 🎓 **Soonchunhyang University**, dept. of Computer Software Engeneering (2021.03 ~ 2027.02)
+- 🎖 **Military service**, 81mm Mortar Operator (2022.04 ~ 2023.10)
+- 📜 Acquired **SQLD Certification** (2024.12.13)
+
+---
+
+## 🎨 What I Like
+- 🍳 Cooking  
+- 📺 Youtube  
+- 🎮 Steam Games  
+- 🛒 Shopping  
+- 🍽 Exploring good restaurants  
+- 🎤 Going to karaoke
+- 🏋️‍♂️ Working out at the gym  
