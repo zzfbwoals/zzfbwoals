@@ -29,6 +29,7 @@
 - 🎖 **Military service**, 81mm Mortar Operator (2022.04 ~ 2023.10)
 - 📜 Acquired **SQLD Certification** (2024.12.13)
 - 📜 Acquired **GTQ-1 Certification** (2025.02.21)
+- 💻 Participated in **9oormthon Univ 4th** (2025)
 
 ---
 
