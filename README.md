@@ -13,6 +13,7 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white&style=flat)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzfbwoals)](https://github.com/anuraghazra/github-readme-stats)
 
