@@ -1,21 +1,16 @@
 # Hi There! I'm Jaemin Ryu 👋
 
-📧 [Email](mailto:jyoonlee@sch.ac.kr)
+📧 [Email](mailto:ryumin0421@sch.ac.kr)
 
 ---
 
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white&style=flat)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzfbwoals)](https://github.com/anuraghazra/github-readme-stats)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 
 ---
 
