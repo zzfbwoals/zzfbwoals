@@ -44,6 +44,7 @@
 - 📜 Acquired **ADSP Certification** (2025.06.13)
 - 🏆 **Excellence Award**, *2025 Capstone Design & AI Hackathon*  
   *(Co-hosted by Sungkyunkwan University, Hanshin University, Kyonggi University, Hoseo University, and Soonchunhyang University)* (2025.10.26)
+- 📜 Acquired **Engineer Information Processing (정보처리기사) Certification** (2026.06.12)
 
 ---
 
