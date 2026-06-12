@@ -45,6 +45,7 @@
 - 🏆 **Excellence Award**, *2025 Capstone Design & AI Hackathon*  
   *(Co-hosted by Sungkyunkwan University, Hanshin University, Kyonggi University, Hoseo University, and Soonchunhyang University)* (2025.10.26)
 - 📜 Acquired **Engineer Information Processing (정보처리기사) Certification** (2026.06.12)
+- 💻 **IPP Work-Based Learning Internship**, SW Engineering Role at **i-Nep (주)아이넵** (2026.03.19 ~ 2027.02.28)
 
 ---
 
